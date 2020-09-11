@@ -1,2 +1,2 @@
 # creativeinc
-Creative Inc.
+Creative Inc. - Simply Styled and Responsive Landing Page 
